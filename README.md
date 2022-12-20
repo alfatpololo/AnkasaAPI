@@ -23,6 +23,7 @@
   * [Installation](#installation)
 * [Contributing](#contributing)
 * [Related Project](#related-project)
+* [Contact](#contact)
 
 
 
@@ -120,3 +121,17 @@ Contributions are what make the open source community such an amazing place to b
 ## Related Project
 This API is used in [Ankasa Ticketing Application](https://ankasa-nightlabs.vercel.app).
 * [View Documentation](https://github.com/reijiren/AnkasaAPP)
+
+<!-- CONTACT -->
+## Contact
+
+Contributors name and contact info
+
+* FULLSTACK TEAM (Backend & Frontend)
+  * Muhammad Rhefa Farizi [@reijiren](https://github.com/reijiren)
+  * Ichsan Ramadhan Mokodompit [@IchsanR](https://github.com/IchsanR)
+
+* FRONTEND TEAM
+  * Muhammad Alfath Aditya [@alfatpololo](https://github.com/alfatpololo)
+  * Reza Fauzan Akbar [@rezafauzanakbar](https://github.com/rezafauzanakbar)
+  * Taufik Ramadhan [@taufikrmdhan](https://github.com/taufikrmdhan)
